@@ -5,6 +5,7 @@
     grid-template-columns: auto auto auto auto auto;
     background-color: #BFDFDF;
     padding: 10px;
+    width:100%;
 }
 
 .grid-item {
@@ -22,6 +23,7 @@
     background: #33FF99;
     color: #0033FF;
     font-size:30px;
+    width:100%;
 }
 
 .header1{
@@ -30,9 +32,11 @@
     background: #FFFFA8;
     color: #FF9900;
     font-size:30px;
+    width: 100%;
 }
 
 footer {
             background-color: #f2f2f2;
             padding: 25px;
+            width:100%;
         }
