@@ -13,5 +13,26 @@
     padding: 20px;
     font-size: 30px;
     text-align: center;
-    
+
 }
+
+.header{
+    padding:10px;
+    text-align:center;
+    background: #33FF99;
+    color: #0033FF;
+    font-size:30px;
+}
+
+.header1{
+    padding:1px;
+    text-align:center;
+    background: #FFFFA8;
+    color: #FF9900;
+    font-size:30px;
+}
+
+footer {
+            background-color: #f2f2f2;
+            padding: 25px;
+        }
